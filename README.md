@@ -1,7 +1,7 @@
 # Spirit LM PyTorch
 
 <p align="center">
-  <img src="Spirit LM.png" alt="Spirit LM" style="display:block; margin:auto; width:800px;" />
+  <img src="Spirit LM.png" alt="Spirit LM" style="display:block; margin:auto; width:780px;" />
 </p>
 
 PyTorch implementation of Spirit LM.
